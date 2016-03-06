@@ -1,4 +1,4 @@
-FROM fnphat/debian-java:1.8.0
+FROM fnphat/debian-java:1.7.0
 
 # Install prerequisites
 RUN apt-get update && \
